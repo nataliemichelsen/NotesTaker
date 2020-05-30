@@ -42,4 +42,4 @@ BONUS) I could make additional changes to the HTML layouts and the CSS styling, 
 
 ## **Video of Deployed Application**
 
-![Deployed Application](Images/notesTest.gif)
+![Deployed Application](images/notesTest.gif)
