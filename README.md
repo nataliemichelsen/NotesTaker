@@ -41,3 +41,5 @@ Retaining code provided, such as HTML layout, CSS styling, and JS data,
 BONUS) I could make additional changes to the HTML layouts and the CSS styling, which I plan to do around the next portfolio update. 
 
 ## **Video of Deployed Application**
+
+![Deployed Application](Images/notesTest.gif)
